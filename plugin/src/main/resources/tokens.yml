@@ -1,0 +1,106 @@
+tokens:
+  token1:
+    item:
+      display: '&6Mexican token'
+      amount: 1
+      material: LEATHER_HORSE_ARMOR
+      lore:
+        - ''
+        - '&9Redeem the Mexican hat!'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 10006
+    cosmetic: hat1
+    exchangeable: true
+  token2:
+    item:
+      display: '&6Creeper token'
+      material: LEATHER_HORSE_ARMOR
+      lore:
+        - ''
+        - '&9Redeem the Creeper backpack!'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 10006
+    cosmetic: bag1
+    exchangeable: true
+  token3:
+    item:
+      display: '&6Banner token'
+      material: LEATHER_HORSE_ARMOR
+      lore:
+        - ''
+        - '&9Redeem the Banner backpack!'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 10006
+    cosmetic: bag2
+    exchangeable: true
+  token4:
+    item:
+      display: '&6Magic token'
+      material: LEATHER_HORSE_ARMOR
+      lore:
+        - ''
+        - '&9Redeem the Magic wand!'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 10006
+    cosmetic: wstick1
+    exchangeable: true
+  token5:
+    item:
+      display: '&6HotAir token'
+      material: LEATHER_HORSE_ARMOR
+      lore:
+        - ''
+        - '&9Redeem the HotAir balloon!'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 10006
+    cosmetic: balloon1
+    exchangeable: true
+  token6:
+    item:
+      display: '&6HotAir token'
+      material: LEATHER_HORSE_ARMOR
+      lore:
+        - ''
+        - '&9Redeem the HotAir & rotation balloon!'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 10006
+    cosmetic: balloon2
+    exchangeable: true
+  token7:
+    item:
+      display: '&6Dino token'
+      material: LEATHER_HORSE_ARMOR
+      lore:
+        - ''
+        - '&9Redeem the Dino spray!'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 10006
+    cosmetic: spray1
+    exchangeable: true
+  token8:
+    item:
+      display: '&6MagicSpray token'
+      material: LEATHER_HORSE_ARMOR
+      lore:
+        - ''
+        - '&9Redeem the Magic spray!'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 10006
+    cosmetic: spray2
+    exchangeable: true

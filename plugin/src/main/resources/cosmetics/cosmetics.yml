@@ -1,0 +1,169 @@
+cosmetics:
+  hat1:
+    permission: 'cosmetics.hat1'
+    item:
+      display: '&bMexican Hat'
+      material: LEATHER_HORSE_ARMOR
+      lore:
+        - ''
+        - '&6Its very Mexican!'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 10005
+    colored: true
+    hide-menu: false
+    type: HAT
+    overlaps: true
+  hat2:
+    permission: 'cosmetics.hat2'
+    item:
+      display: '&bHot Dog'
+      material: LEATHER_HORSE_ARMOR
+      lore:
+        - ''
+        - '&aA spicy hot dog, who doesnt like it?'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 10013
+    colored: false
+    type: HAT
+    overlaps: false
+  bag1:
+    permission: 'cosmetics.bag1'
+    item:
+      display: '&bCreeper backpack'
+      material: LEATHER_HORSE_ARMOR
+      lore:
+        - ''
+        - '&aSupport the creepers!'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 10003
+    colored: true
+    type: BAG
+    space: 30
+  bag2:
+    permission: 'cosmetics.bag2'
+    item:
+      display: '&bBanner backpack'
+      material: LEATHER_HORSE_ARMOR
+      lore:
+        - ''
+        - '&a&k@¿¿??@'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 10004
+    colored: true
+    type: BAG
+  wstick1:
+    permission: 'cosmetics.wstick1'
+    item:
+      display: '&bMagic wand'
+      material: LEATHER_HORSE_ARMOR
+      lore:
+        - ''
+        - '&3This is a magic wand'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 10001
+    colored: true
+    type: WALKING_STICK
+  wstick2:
+    permission: 'cosmetics.wstick2'
+    item:
+      display: '&bBig Head'
+      material: PLAYER_HEAD
+      lore:
+        - ''
+        - '&3This is a very big head!'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 10003
+    type: WALKING_STICK
+  balloon1:
+    permission: 'cosmetics.balloon1'
+    item:
+      display: '&bHot air balloon'
+      material: LEATHER_HORSE_ARMOR
+      lore:
+        - ''
+        - '&aThis balloon will fly through the skies!'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 10000
+    colored: true
+    type: BALLOON
+    space: 1
+    rotation:
+      enabled: false
+      type: RIGHT
+  balloon2:
+    permission: 'cosmetics.balloon2'
+    item:
+      display: '&bHot air balloon'
+      material: LEATHER_HORSE_ARMOR
+      lore:
+        - ''
+        - '&aThis balloon will fly through the skies and rotate!'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 10000
+    colored: true
+    type: BALLOON
+    space: 1
+    rotation:
+      enabled: true
+      type: RIGHT
+  balloon3:
+    permission: 'cosmetics.balloon3'
+    item:
+      display: '&bBig balloon'
+      material: PLAYER_HEAD
+      texture: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTNmOWVlZGEzYmEyM2ZlMTQyM2M0MDM2ZTdkZDBhNzQ0NjFkZmY5NmJhZGM1YjJmMmI5ZmFhN2NjMTZmMzgyZiJ9fX0='
+      lore:
+        - ''
+        - '&aThis balloon is very big!!'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 10003
+    type: BALLOON
+    space: 3
+    big-head: true
+  spray1:
+    permission: 'cosmetics.spray1'
+    item:
+      display: '&bDino Spray'
+      material: FEATHER
+      lore:
+        - ''
+        - '&aThis spray is the best!'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 10044
+    colored: true
+    type: SPRAY
+    url: first.png
+  spray2:
+    permission: 'cosmetics.spray2'
+    item:
+      display: '&bMagic Spray'
+      material: PAPER
+      lore:
+        - ''
+        - '&aThis spray is magic!'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 10009
+    type: SPRAY
+    item-image: true

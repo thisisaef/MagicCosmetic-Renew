@@ -1,0 +1,26 @@
+name: MagicCosmetics
+version: '${project.version}'
+main: com.francobm.magicosmetics.MagicCosmetics
+api-version: 1.16
+softdepend:
+  - LuckPerms
+  - Multiverse-Core
+  - ItemsAdder
+  - Oraxen
+  - ModelEngine
+  - TrMenu
+  - PlaceholderAPI
+  - Citizens
+  - MythicMobs
+  - SkinsRestorer
+  - Denizen
+  - My_Worlds
+authors: [FrancoBM]
+description: magic cosmetics for this server.
+website: FrancoBM#2980
+super: '%%__USER__%%'
+commands:
+  magicosmetics:
+    description: simple command.
+    usage: /<command>
+    aliases: [cosmetics, mcosmetics, magiccos]
